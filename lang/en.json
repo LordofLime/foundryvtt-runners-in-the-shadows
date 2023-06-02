@@ -265,6 +265,26 @@
   "BITD.RollAcquireAssetCritical": "Exceptional result.",
   "BITD.RollAcquireAssetSuccess": "Good result.",
   "BITD.RollAcquireAssetPartialSuccess": "Mixed result.",
-  "BITD.RollAcquireAssetFailure": "Bad result."
+  "BITD.RollAcquireAssetFailure": "Bad result.",
 
+  "RITS.Ided":"Id'ed",
+  "RITS.IdSource":"Source",
+  "RITS.Background":"Background",
+  "RITS.Edge":"Edge",
+  "RITS.Karma":"Karma",
+  "RITS.SkillsIntuition":"Intuition",
+  "RITS.SkillsEngineer":"Engineer",
+  "RITS.SkillsInterface":"Interface",
+  "RITS.SkillsStalk":"Stalk",
+  "RITS.SkillsSurvey":"Survey",
+  "RITS.SkillsBody":"Body",
+  "RITS.SkillsFight":"Fight",
+  "RITS.SkillsFinesse":"Finesse",
+  "RITS.SkillsProwl":"Prowl",
+  "RITS.SkillsWreck":"Wreck",
+  "RITS.SkillsWillpower":"Willpower",
+  "RITS.SkillsCommand":"Command",
+  "RITS.SkillsConsort":"Consort",
+  "RITS.SkillsInfluence":"Influence",
+  "RITS.SkillsStudy":"Study"
 }

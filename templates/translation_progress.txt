@@ -1,0 +1,37 @@
+____TRANSLATIONS____
+RITS.Ided D
+RITS.IdSource D
+RITS.Background D
+RITS.Edge D
+RITS.Karma D
+RITS.SkillsIntuition D
+RITS.SkillsEngineer D
+RITS.SkillsInterface D
+RITS.SkillsStalk D
+RITS.SkillsSurvey D
+RITS.SkillsBody D
+RITS.SkillsFight D
+RITS.SkillsFinesse D
+RITS.SkillsProwl D
+RITS.SkillsWreck D
+RITS.SkillsWillpower D
+RITS.SkillsCommand D
+RITS.SkillsConsort D
+RITS.SkillsInfluence D
+RITS.SkillsStudy D
+____TEMPLATE_CHANGES____
+Change: XP-Track bei Special Abilities auf 10  D
+ADD: Textfield "ID'ed/Source" D
+CHANGE: Backgrounds.Options #Replace in db
+CHANGE: Vice -> Vice/Source
+CHANGE: Stress -> Edge
+CHANGE: XP -> Karma
+CHANGE: Insight -> Intuition
+CHANGE: Insight.ActionRatings -> Intuition.ActionRatings
+CHANGE: Prowess -> Body
+CHANGE: Prowess.ActionRatings -> Body.ActionRatings
+CHANGE: Resolve -> Willpower
+CHANGE: Resolve.ActionRatings -> Willpower.ActionRatings
+____COMPENDIUM _CHANGES____
+Add Compendium ID-Sources
+Pretty much all of it...

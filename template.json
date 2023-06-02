@@ -16,8 +16,8 @@
       "value": [0],
       "max": 9,
       "max_default": 9,
-      "name_default": "BITD.Stress",
-      "name": "BITD.Stress"
+      "name_default": "RITS.Edge",
+      "name": "RITS.Edge"
     },
     "trauma": {
       "max": 4,
@@ -30,7 +30,7 @@
     },
     "healing-clock": [0],
     "experience": [0],
-    "experience_max": 8,
+    "experience_max": 10,
     "experience_clues": ["BITD.ClassExpClue3", "BITD.ClassExpClue2"],
     "coins": [0],
     "coins_stashed": [0],
@@ -64,22 +64,22 @@
         "insight": {
           "exp": 0,
           "exp_max": 6,
-          "label": "BITD.SkillsInsight",
+          "label": "RITS.SkillsIntuition",
           "skills": {
             "hunt": {
-              "label": "BITD.SkillsHunt",
+              "label": "RITS.SkillsEngineer",
               "value": 0
             },
             "study": {
-              "label": "BITD.SkillsStudy",
+              "label": "RITS.SkillsInterface",
               "value": 0
             },
             "survey": {
-              "label": "BITD.SkillsSurvey",
+              "label": "RITS.SkillsStalk",
               "value": 0
             },
             "tinker": {
-              "label": "BITD.SkillsTinker",
+              "label": "RITS.SkillsSurvey",
               "value": 0
             }
           }
@@ -87,22 +87,22 @@
         "prowess": {
           "exp": 0,
           "exp_max": 6,
-          "label": "BITD.SkillsProwess",
+          "label": "RITS.SkillsBody",
           "skills": {
             "finesse": {
-              "label": "BITD.SkillsFinesse",
+              "label": "RITS.SkillsFight",
               "value": 0
             },
             "prowl": {
-              "label": "BITD.SkillsProwl",
+              "label": "RITS.SkillsFinesse",
               "value": 0
             },
             "skirmish": {
-              "label": "BITD.SkillsSkirmish",
+              "label": "RITS.SkillsProwl",
               "value": 0
             },
             "wreck": {
-              "label": "BITD.SkillsWreck",
+              "label": "RITS.SkillsWreck",
               "value": 0
             }
           }
@@ -110,22 +110,22 @@
         "resolve": {
           "exp": 0,
           "exp_max": 6,
-          "label": "BITD.SkillsResolve",
+          "label": "RITS.SkillsWillpower",
           "skills": {
             "attune": {
-              "label": "BITD.SkillsAttune",
+              "label": "RITS.SkillsCommand",
               "value": 0
             },
             "command": {
-              "label": "BITD.SkillsCommand",
+              "label": "RITS.SkillsConsort",
               "value": 0
             },
             "consort": {
-              "label": "BITD.SkillsConsort",
+              "label": "RITS.SkillsInfluence",
               "value": 0
             },
             "sway": {
-              "label": "BITD.SkillsSway",
+              "label": "RITS.SkillsStudy",
               "value": 0
             }
           }
