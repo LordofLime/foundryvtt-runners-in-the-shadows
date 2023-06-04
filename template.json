@@ -61,43 +61,43 @@
       "special": 0
     },
     "attributes": {
-        "insight": {
+        "intuition": {
           "exp": 0,
           "exp_max": 6,
           "label": "RITS.SkillsIntuition",
           "skills": {
-            "hunt": {
+            "engineer": {
               "label": "RITS.SkillsEngineer",
               "value": 0
             },
-            "study": {
+            "interface": {
               "label": "RITS.SkillsInterface",
               "value": 0
             },
-            "survey": {
+            "stalk": {
               "label": "RITS.SkillsStalk",
               "value": 0
             },
-            "tinker": {
+            "survey": {
               "label": "RITS.SkillsSurvey",
               "value": 0
             }
           }
         },
-        "prowess": {
+        "body": {
           "exp": 0,
           "exp_max": 6,
           "label": "RITS.SkillsBody",
           "skills": {
-            "finesse": {
+            "fight": {
               "label": "RITS.SkillsFight",
               "value": 0
             },
-            "prowl": {
+            "finesse": {
               "label": "RITS.SkillsFinesse",
               "value": 0
             },
-            "skirmish": {
+            "prowl": {
               "label": "RITS.SkillsProwl",
               "value": 0
             },
@@ -107,24 +107,24 @@
             }
           }
         },
-        "resolve": {
+        "willpower": {
           "exp": 0,
           "exp_max": 6,
           "label": "RITS.SkillsWillpower",
           "skills": {
-            "attune": {
+            "command": {
               "label": "RITS.SkillsCommand",
               "value": 0
             },
-            "command": {
+            "consort": {
               "label": "RITS.SkillsConsort",
               "value": 0
             },
-            "consort": {
+            "influence": {
               "label": "RITS.SkillsInfluence",
               "value": 0
             },
-            "sway": {
+            "study": {
               "label": "RITS.SkillsStudy",
               "value": 0
             }
@@ -267,18 +267,18 @@
     "templates": ["default", "logic", "activatedEffect"],
     "experience_clues": [],
     "base_skills": {
-      "hunt": [0],
-      "study": [0],
+      "engineer": [0],
+      "interface": [0],
+      "stalk": [0],
       "survey": [0],
-      "tinker": [0],
+      "fight": [0],
       "finesse": [0],
       "prowl": [0],
-      "skirmish": [0],
       "wreck": [0],
-      "attune": [0],
       "command": [0],
       "consort": [0],
-      "sway": [0]
+      "influence": [0],
+      "study": [0]
     }
   },
   "ability": {
